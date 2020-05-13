@@ -1,5 +1,5 @@
 # Assignment_20
-## **Unit 20: Solidity
+## **Unit 20: Solidity**
 
 The contract was built using Solidity and was tried on the Kovan testnet.
 
