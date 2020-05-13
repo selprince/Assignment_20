@@ -12,7 +12,7 @@ There were three different tasks that I prepared:
 
 The contract was created to accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently.
 
-[Associate Profit Splitter Code](http://remix.ethereum.org/#optimize=false&evmVersion=null&version=soljson-v0.5.17+commit.d19bba13.js)
+[Associate Profit Splitter Code](associateprofitsplitter.sol)
 
 To work this solidity file 
 
