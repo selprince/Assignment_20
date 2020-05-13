@@ -43,7 +43,7 @@ It is worthy to note that if you would like to test the code you can simply chan
 
   To work the contract please utilize the following file:  
  
-[Deferred Equity Plan Code](http://remix.ethereum.org/#optimize=false&evmVersion=null&version=soljson-v0.5.17+commit.d19bba13.js)
+[Deferred Equity Plan Code](DeferredEquityPlan2.sol)
   
   
   
