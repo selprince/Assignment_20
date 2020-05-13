@@ -25,7 +25,7 @@ The contract was created to distribute different percentages of incoming Ether t
 3. CTO 25%
 4. Bob gets 15%.
 
-[Tiered Profit Splitter Code](http://remix.ethereum.org/#optimize=false&evmVersion=null&version=soljson-v0.5.17+commit.d19bba13.js)
+[Tiered Profit Splitter Code](TieredProfitSplitter.sol)
 
 3. **Deferred Equity Plan:**
 
