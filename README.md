@@ -1,5 +1,5 @@
 # Assignment_20
-Unit 20: Solidity
+## **Unit 20: Solidity
 
 The contract was built using Solidity and was tried on the Kovan testnet.
 
@@ -10,11 +10,11 @@ There were three different tasks that I prepared:
 
 1. **Associate Profit Splitter:**
 
-The contract was created to accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently.
+The contract was created to accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently. Below is a link to the code:
 
 [Associate Profit Splitter Code](AssociateProfitSplitter.sol)
 
-To work this solidity file 
+
 
 2. **Tiered Profit Splitter:**
 
@@ -25,7 +25,9 @@ The contract was created to distribute different percentages of incoming Ether t
 3. CTO 25%
 4. Bob gets 15%.
 
-[Tiered Profit Splitter Code](TieredProfitSplitter.sol)
+ Below is a link to the code:
+ 
+ [Tiered Profit Splitter Code](TieredProfitSplitter.sol)
 
 3. **Deferred Equity Plan:**
 
@@ -37,14 +39,15 @@ The contract was created to structure a employee stock ownership payout. This co
 
 It is worthy to note that if you would like to test the code you can simply change the definition of start_time as follows:
   
-  uint start_time = now - 500 days;
+  **uint start_time = now - 500 days;**
 
 
 
-  To work the contract please utilize the following file:  
- 
+To work the contract please utilize the following file:  
+
+Below is a link to the code: 
 [Deferred Equity Plan Code](DeferredEquityPlan2.sol)
   
   
   
-  Enjoy!
+Enjoy!
