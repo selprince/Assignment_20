@@ -1,16 +1,21 @@
 # Assignment_20
 ## **Unit 20: Solidity**
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
 The contract was built using Solidity and was tried on the Kovan testnet.
 
 The testnet address is:
 
-**0x3b3cb82b8b706757c78bd02f00B052E8e1929e04**
++ **0x3b3cb82b8b706757c78bd02f00B052E8e1929e04** in green
 
 Please feel free to send any money my way!
 
 There were three different tasks that I prepared:
-
 1. **Associate Profit Splitter:**
 
 The contract was created to accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently. Below is a link to the code:
