@@ -9,7 +9,7 @@ The testnet address is:
 
 [^1]:Please feel free to send any money my way!
 
-**There were three different tasks that I prepared:**
+There were three different tasks that I prepared:
 
 ### 1. *Associate Profit Splitter:*
 
