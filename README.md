@@ -7,11 +7,11 @@ The testnet address is:
 
  *0x3b3cb82b8b706757c78bd02f00B052E8e1929e04*
 
-Please feel free to send any money my way!
+[^1]: Please feel free to send any money my way!
 
 **There were three different tasks that I prepared:**
 
-1. *Associate Profit Splitter:*
+### 1. *Associate Profit Splitter:*
 
 The contract was created to accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently. Below is a link to the code:
 
@@ -19,7 +19,7 @@ The contract was created to accept Ether into the contract and divide the Ether 
 
 
 
-2. *Tiered Profit Splitter:*
+### 2. *Tiered Profit Splitter:*
 
 The contract was created to distribute different percentages of incoming Ether to employees at different tiers/levels. THis contract was put in place with the follwoing key point in mind:
 
@@ -32,7 +32,7 @@ The contract was created to distribute different percentages of incoming Ether t
  
  [Tiered Profit Splitter Code](TieredProfitSplitter.sol)
 
-3. *Deferred Equity Plan:*
+### 3. *Deferred Equity Plan:*
 
 The contract was created to structure a employee stock ownership payout. This contract was put in place with the following key points in mind:
 
@@ -42,7 +42,7 @@ The contract was created to structure a employee stock ownership payout. This co
 
 It is worthy to note that if you would like to test the code you can simply change the definition of start_time as follows:
   
-  *uint start_time = now - 500 days;*
+  `uint start_time = now - 500 days;`
 
 To view the contract please utilize the following file:  
 
