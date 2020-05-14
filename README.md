@@ -7,7 +7,7 @@ The testnet address is:
 
  *0x3b3cb82b8b706757c78bd02f00B052E8e1929e04*
 
-[^1]: Please feel free to send any money my way!
+[^1]:Please feel free to send any money my way!
 
 **There were three different tasks that I prepared:**
 
