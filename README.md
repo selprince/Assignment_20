@@ -3,7 +3,10 @@
 
 The contract was built using Solidity and was tried on the Kovan testnet.
 
-The testnet address is: 0x3b3cb82b8b706757c78bd02f00B052E8e1929e04 
+The testnet address is:
+
+**0x3b3cb82b8b706757c78bd02f00B052E8e1929e04**
+
 Please feel free to send any money my way!
 
 There were three different tasks that I prepared:
@@ -43,7 +46,7 @@ It is worthy to note that if you would like to test the code you can simply chan
 
 
 
-To work the contract please utilize the following file:  
+To view the contract please utilize the following file:  
 
 Below is a link to the code: 
 [Deferred Equity Plan Code](DeferredEquityPlan2.sol)
